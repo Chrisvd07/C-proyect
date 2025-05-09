@@ -124,6 +124,46 @@
     ]
   },
   {
+    "ContainingType": "TaskManager.Controllers.TareaController",
+    "Method": "GetCompletadas",
+    "RelativePath": "api/Tarea/completadas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Domainlayer.DTO.Response\u00601[[Domainlayer.Models.Tareas, Domainlayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TaskManager.Controllers.TareaController",
+    "Method": "GetPendientes",
+    "RelativePath": "api/Tarea/pendientes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Domainlayer.DTO.Response\u00601[[Domainlayer.Models.Tareas, Domainlayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "TaskManager.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
