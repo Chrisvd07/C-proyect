@@ -37,6 +37,16 @@
         "tags": [
           "Tarea"
         ],
+        "parameters": [
+          {
+            "name": "priority",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "default": "standard"
+            }
+          }
+        ],
         "requestBody": {
           "content": {
             "application/json": {

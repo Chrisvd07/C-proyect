@@ -31,6 +31,11 @@
         "Name": "tarea",
         "Type": "Domainlayer.Models.Tareas",
         "IsRequired": true
+      },
+      {
+        "Name": "priority",
+        "Type": "System.String",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": [

@@ -14,9 +14,9 @@ builder.Services.AddDbContext<TaskManagerContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("taskmanager"));
 });
 
-
-builder.Services.AddScoped<IcommonsProcess<Tareas>,TaskRepositore>();
+builder.Services.AddScoped<IcommonsProcess<Tareas>, TaskRepositore>();
 builder.Services.AddScoped<TaskService>();
+builder.Services.AddScoped<ITaskFactory, ApplicationLayer.Service.TareaService.TareaFactory>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

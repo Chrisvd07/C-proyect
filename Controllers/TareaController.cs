@@ -27,7 +27,7 @@ namespace TaskManager.Controllers
             => await _service.GetIdTask(id);
 
         [HttpPost]
-        public async Task<ActionResult<Response<string>>> AddAsync(Tareas tarea)
+        public async Task<ActionResult<Response<string>>> AddAsync([FromBody] Tareas tarea, [FromQuery] string priority = "standard")
             => await _service.AddAsync(tarea);
 
         [HttpPut]
@@ -40,14 +40,10 @@ namespace TaskManager.Controllers
 
         [HttpGet("pendientes")]
         public async Task<ActionResult<Response<Tareas>>> GetPendientes()
-        {
-            return await _service.GetFilteredAsync(pendientes: true);
-        }
+            => await _service.GetFilteredAsync(pendientes: true);
 
         [HttpGet("completadas")]
         public async Task<ActionResult<Response<Tareas>>> GetCompletadas()
-        {
-            return await _service.GetFilteredAsync(completadas: true);
-        }
+            => await _service.GetFilteredAsync(completadas: true);
     }
 }
