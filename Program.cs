@@ -4,34 +4,38 @@ using InfraestuctureLayer;
 using InfraestuctureLayer.Repositore.Commons;
 using InfraestuctureLayer.Repositore.RepositoreTask;
 using Microsoft.EntityFrameworkCore;
+using ApplicationLayer.Queue;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-
+// Configuración de la base de datos
 builder.Services.AddDbContext<TaskManagerContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("taskmanager"));
 });
 
+// Registro de servicios
 builder.Services.AddScoped<IcommonsProcess<Tareas>, TaskRepositore>();
+builder.Services.AddScoped<TaskRepositore>();
+builder.Services.AddScoped<ITaskFactory, TareaFactory>();
+builder.Services.AddSingleton<TaskQueueProcessor>();
 builder.Services.AddScoped<TaskService>();
-builder.Services.AddScoped<ITaskFactory, ApplicationLayer.Service.TareaService.TareaFactory>();
 
+// Configuración de controladores y Swagger
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
+// Aplicar migraciones pendientes
 using (var scope = app.Services.CreateScope())
 {
     var dbContext = scope.ServiceProvider.GetRequiredService<TaskManagerContext>();
     dbContext.Database.Migrate();
 }
 
-// Configure the HTTP request pipeline.
+// Configuración del pipeline HTTP
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();

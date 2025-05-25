@@ -3,25 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\TaskManager\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CDA6BF07-7E02-4EF5-8355-564A23C0B93A}|TaskManager.csproj|c:\\users\\denis\\onedrive\\escritorio\\programs\\taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDA6BF07-7E02-4EF5-8355-564A23C0B93A}|TaskManager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CB8A410C-BF1B-4A95-B203-1DE11F0915F8}|..\\ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\denis\\onedrive\\escritorio\\programs\\applicationlayer\\service\\tareaservice\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDA6BF07-7E02-4EF5-8355-564A23C0B93A}|TaskManager.csproj|c:\\users\\denis\\onedrive\\escritorio\\programs\\taskmanager\\controllers\\tareacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDA6BF07-7E02-4EF5-8355-564A23C0B93A}|TaskManager.csproj|solutionrelative:controllers\\tareacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB8A410C-BF1B-4A95-B203-1DE11F0915F8}|..\\ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\denis\\onedrive\\escritorio\\programs\\applicationlayer\\queue\\taskqueueprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB8A410C-BF1B-4A95-B203-1DE11F0915F8}|..\\ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\denis\\onedrive\\escritorio\\programs\\applicationlayer\\service\\tareaservice\\itaskfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE79F897-FB6B-4077-A2C1-4F19A740A04D}|..\\InfraestuctureLayer\\InfraestuctureLayer.csproj|c:\\users\\denis\\onedrive\\escritorio\\programs\\infraestucturelayer\\repositore\\commons\\icommonsprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42EE6166-2A1C-4441-B12B-4733603E5BEA}|..\\Domainlayer\\Domainlayer.csproj|c:\\users\\denis\\onedrive\\escritorio\\programs\\domainlayer\\models\\tareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDA6BF07-7E02-4EF5-8355-564A23C0B93A}|TaskManager.csproj|c:\\users\\denis\\onedrive\\escritorio\\programs\\taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDA6BF07-7E02-4EF5-8355-564A23C0B93A}|TaskManager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDA6BF07-7E02-4EF5-8355-564A23C0B93A}|TaskManager.csproj|c:\\users\\denis\\onedrive\\escritorio\\programs\\taskmanager\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDA6BF07-7E02-4EF5-8355-564A23C0B93A}|TaskManager.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42EE6166-2A1C-4441-B12B-4733603E5BEA}|..\\Domainlayer\\Domainlayer.csproj|c:\\users\\denis\\onedrive\\escritorio\\programs\\domainlayer\\dto\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE79F897-FB6B-4077-A2C1-4F19A740A04D}|..\\InfraestuctureLayer\\InfraestuctureLayer.csproj|c:\\users\\denis\\onedrive\\escritorio\\programs\\infraestucturelayer\\taskmanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -30,16 +28,21 @@
       "AbsoluteMoniker": "D:0:0:{DE79F897-FB6B-4077-A2C1-4F19A740A04D}|..\\InfraestuctureLayer\\InfraestuctureLayer.csproj|c:\\users\\denis\\onedrive\\escritorio\\programs\\infraestucturelayer\\repositore\\repositoretask\\taskrepositore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DE79F897-FB6B-4077-A2C1-4F19A740A04D}|..\\InfraestuctureLayer\\InfraestuctureLayer.csproj|c:\\users\\denis\\onedrive\\escritorio\\programs\\infraestucturelayer\\repositore\\commons\\icommonsprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DE79F897-FB6B-4077-A2C1-4F19A740A04D}|..\\InfraestuctureLayer\\InfraestuctureLayer.csproj|c:\\users\\denis\\onedrive\\escritorio\\programs\\infraestucturelayer\\migrations\\taskmanagercontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE79F897-FB6B-4077-A2C1-4F19A740A04D}|..\\InfraestuctureLayer\\InfraestuctureLayer.csproj|c:\\users\\denis\\onedrive\\escritorio\\programs\\infraestucturelayer\\migrations\\20250502223020_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42EE6166-2A1C-4441-B12B-4733603E5BEA}|..\\Domainlayer\\Domainlayer.csproj|c:\\users\\denis\\onedrive\\escritorio\\programs\\domainlayer\\models\\tareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CDA6BF07-7E02-4EF5-8355-564A23C0B93A}|TaskManager.csproj|c:\\users\\denis\\onedrive\\escritorio\\programs\\taskmanager\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDA6BF07-7E02-4EF5-8355-564A23C0B93A}|TaskManager.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42EE6166-2A1C-4441-B12B-4733603E5BEA}|..\\Domainlayer\\Domainlayer.csproj|c:\\users\\denis\\onedrive\\escritorio\\programs\\domainlayer\\dto\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CDA6BF07-7E02-4EF5-8355-564A23C0B93A}|TaskManager.csproj|c:\\users\\denis\\onedrive\\escritorio\\programs\\taskmanager\\controllers\\tareacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDA6BF07-7E02-4EF5-8355-564A23C0B93A}|TaskManager.csproj|solutionrelative:controllers\\tareacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB8A410C-BF1B-4A95-B203-1DE11F0915F8}|..\\ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\denis\\onedrive\\escritorio\\programs\\applicationlayer\\applicationlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -63,17 +66,17 @@
       "DocumentGroups": [
         {
           "DockedHeight": 270,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\TaskManager\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\TaskManager\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABIAAABbAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T21:26:38.377Z",
               "IsPinned": true,
@@ -89,54 +92,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TaskService.cs",
               "DocumentMoniker": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\ApplicationLayer\\Service\\TareaService\\TaskService.cs",
               "RelativeDocumentMoniker": "..\\ApplicationLayer\\Service\\TareaService\\TaskService.cs",
               "ToolTip": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\ApplicationLayer\\Service\\TareaService\\TaskService.cs",
               "RelativeToolTip": "..\\ApplicationLayer\\Service\\TareaService\\TaskService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAwwMgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T00:15:16.158Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TareaController.cs",
-              "DocumentMoniker": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\TaskManager\\Controllers\\TareaController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TareaController.cs",
-              "ToolTip": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\TaskManager\\Controllers\\TareaController.cs",
-              "RelativeToolTip": "Controllers\\TareaController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB4AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T01:32:09.402Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ITaskFactory.cs",
-              "DocumentMoniker": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\ApplicationLayer\\Service\\TareaService\\ITaskFactory.cs",
-              "RelativeDocumentMoniker": "..\\ApplicationLayer\\Service\\TareaService\\ITaskFactory.cs",
-              "ToolTip": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\ApplicationLayer\\Service\\TareaService\\ITaskFactory.cs",
-              "RelativeToolTip": "..\\ApplicationLayer\\Service\\TareaService\\ITaskFactory.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAqwEYAAAAAAAAAAAAAAA==",
+              "Title": "TaskQueueProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\ApplicationLayer\\Queue\\TaskQueueProcessor.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationLayer\\Queue\\TaskQueueProcessor.cs",
+              "ToolTip": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\ApplicationLayer\\Queue\\TaskQueueProcessor.cs",
+              "RelativeToolTip": "..\\ApplicationLayer\\Queue\\TaskQueueProcessor.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T20:30:03.575Z",
+              "WhenOpened": "2025-05-25T02:09:46.765Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IcommonsProcess.cs",
-              "DocumentMoniker": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\InfraestuctureLayer\\Repositore\\Commons\\IcommonsProcess.cs",
-              "RelativeDocumentMoniker": "..\\InfraestuctureLayer\\Repositore\\Commons\\IcommonsProcess.cs",
-              "ToolTip": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\InfraestuctureLayer\\Repositore\\Commons\\IcommonsProcess.cs",
-              "RelativeToolTip": "..\\InfraestuctureLayer\\Repositore\\Commons\\IcommonsProcess.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Title": "ITaskFactory.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\ApplicationLayer\\Service\\TareaService\\ITaskFactory.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationLayer\\Service\\TareaService\\ITaskFactory.cs",
+              "ToolTip": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\ApplicationLayer\\Service\\TareaService\\ITaskFactory.cs",
+              "RelativeToolTip": "..\\ApplicationLayer\\Service\\TareaService\\ITaskFactory.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAUwEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T22:42:11.024Z",
+              "WhenOpened": "2025-05-16T20:30:03.575Z",
               "EditorCaption": ""
             },
             {
@@ -147,7 +137,7 @@
               "RelativeDocumentMoniker": "..\\InfraestuctureLayer\\Repositore\\RepositoreTask\\TaskRepositore.cs",
               "ToolTip": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\InfraestuctureLayer\\Repositore\\RepositoreTask\\TaskRepositore.cs",
               "RelativeToolTip": "..\\InfraestuctureLayer\\Repositore\\RepositoreTask\\TaskRepositore.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAswE4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T22:49:51.035Z",
               "EditorCaption": ""
@@ -168,45 +158,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\TaskManager\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\TaskManager\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\Domainlayer\\DTO\\Response.cs",
+              "RelativeDocumentMoniker": "..\\Domainlayer\\DTO\\Response.cs",
+              "ToolTip": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\Domainlayer\\DTO\\Response.cs",
+              "RelativeToolTip": "..\\Domainlayer\\DTO\\Response.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T23:16:24.798Z",
+              "WhenOpened": "2025-05-03T00:16:10.663Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "TaskManagerContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\InfraestuctureLayer\\Migrations\\TaskManagerContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "..\\InfraestuctureLayer\\Migrations\\TaskManagerContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\InfraestuctureLayer\\Migrations\\TaskManagerContextModelSnapshot.cs",
-              "RelativeToolTip": "..\\InfraestuctureLayer\\Migrations\\TaskManagerContextModelSnapshot.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAADwvzYAAAAAAAAAAAAAAA==",
+              "Title": "IcommonsProcess.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\InfraestuctureLayer\\Repositore\\Commons\\IcommonsProcess.cs",
+              "RelativeDocumentMoniker": "..\\InfraestuctureLayer\\Repositore\\Commons\\IcommonsProcess.cs",
+              "ToolTip": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\InfraestuctureLayer\\Repositore\\Commons\\IcommonsProcess.cs",
+              "RelativeToolTip": "..\\InfraestuctureLayer\\Repositore\\Commons\\IcommonsProcess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T23:15:23.445Z",
+              "WhenOpened": "2025-05-02T22:42:11.024Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20250502223020_FirstMigration.cs",
-              "DocumentMoniker": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\InfraestuctureLayer\\Migrations\\20250502223020_FirstMigration.cs",
-              "RelativeDocumentMoniker": "..\\InfraestuctureLayer\\Migrations\\20250502223020_FirstMigration.cs",
-              "ToolTip": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\InfraestuctureLayer\\Migrations\\20250502223020_FirstMigration.cs",
-              "RelativeToolTip": "..\\InfraestuctureLayer\\Migrations\\20250502223020_FirstMigration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T22:30:20.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "Tareas.cs",
               "DocumentMoniker": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\Domainlayer\\Models\\Tareas.cs",
               "RelativeDocumentMoniker": "..\\Domainlayer\\Models\\Tareas.cs",
@@ -219,20 +196,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Response.cs",
-              "DocumentMoniker": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\Domainlayer\\DTO\\Response.cs",
-              "RelativeDocumentMoniker": "..\\Domainlayer\\DTO\\Response.cs",
-              "ToolTip": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\Domainlayer\\DTO\\Response.cs",
-              "RelativeToolTip": "..\\Domainlayer\\DTO\\Response.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "TaskManagerContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\InfraestuctureLayer\\Migrations\\TaskManagerContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\InfraestuctureLayer\\Migrations\\TaskManagerContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\InfraestuctureLayer\\Migrations\\TaskManagerContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\InfraestuctureLayer\\Migrations\\TaskManagerContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T00:16:10.663Z",
+              "WhenOpened": "2025-05-02T23:15:23.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250502223020_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\InfraestuctureLayer\\Migrations\\20250502223020_FirstMigration.cs",
+              "RelativeDocumentMoniker": "..\\InfraestuctureLayer\\Migrations\\20250502223020_FirstMigration.cs",
+              "ToolTip": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\InfraestuctureLayer\\Migrations\\20250502223020_FirstMigration.cs",
+              "RelativeToolTip": "..\\InfraestuctureLayer\\Migrations\\20250502223020_FirstMigration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA2wCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T22:30:20.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\TaskManager\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\TaskManager\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T23:16:24.798Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "TareaController.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\TaskManager\\Controllers\\TareaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TareaController.cs",
+              "ToolTip": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\TaskManager\\Controllers\\TareaController.cs",
+              "RelativeToolTip": "Controllers\\TareaController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T01:32:09.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "ApplicationLayer.csproj",
               "DocumentMoniker": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\ApplicationLayer\\ApplicationLayer.csproj",
               "RelativeDocumentMoniker": "..\\ApplicationLayer\\ApplicationLayer.csproj",
@@ -244,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "TaskManager.csproj",
               "DocumentMoniker": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\TaskManager\\TaskManager.csproj",
               "RelativeDocumentMoniker": "TaskManager.csproj",
@@ -256,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\denis\\OneDrive\\Escritorio\\Programs\\TaskManager\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "WeatherForecast.cs",
@@ -268,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
