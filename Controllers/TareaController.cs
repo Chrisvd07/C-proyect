@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Domainlayer.Models;
 using ApplicationLayer.Service.TareaService;
@@ -7,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace TaskManager.Controllers
 {
+    [Authorize] 
     [Route("api/[controller]")]
     [ApiController]
     public class TareaController : ControllerBase

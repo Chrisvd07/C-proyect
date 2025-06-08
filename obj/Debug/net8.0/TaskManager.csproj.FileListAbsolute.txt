@@ -177,3 +177,4 @@ C:\Users\denis\OneDrive\Escritorio\Programs\TaskManager\bin\Debug\net8.0\Infraes
 C:\Users\denis\OneDrive\Escritorio\Programs\TaskManager\bin\Debug\net8.0\Domainlayer.pdb
 C:\Users\denis\OneDrive\Escritorio\Programs\TaskManager\bin\Debug\net8.0\ApplicationLayer.dll
 C:\Users\denis\OneDrive\Escritorio\Programs\TaskManager\bin\Debug\net8.0\ApplicationLayer.pdb
+C:\Users\denis\OneDrive\Escritorio\Programs\TaskManager\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
